@@ -1,0 +1,26 @@
+MEMO
+To: 	 Jessica Smith, Computer Engineering Project Manager
+From:    Tracy Summers, Technical Writer
+Date:    11/24/14
+Subject: Benefits of Collaborating through MadCap Flare (MCF)
+
+In this memo, I will share the benefits of single sourcing for your department, as well as some innovative ideas used by other companies. I recently discovered how these companies are using single sourcing software, like MadCap Flare (MCF), to improve communication and to reduce errors. I am confident MCF will help our departments work smarter and the following details explain why. 
+Benefits to Software Engineers/SMEs
+•  SMEs will receive fewer requests to review content or verify functionality. 
+     ?	Why? Fewer content creators will be asking SMEs to verify their content for accuracy because most content will be written once. Then they will use MCF to share it with other content creators (company-wide). 
+•  SMEs can focus on designated work vs. verifying deliverables for accuracy. 
+     ?	Why? They won’t have to verify the same content for multiple departments because the “already verified” content will be available for all content creators (by way of MCF).
+•  SMEs will spend less time reviewing documents or sorting through emails. 
+     ? Why? They won’t receive as many requests to review/verify content.
+•  SMEs will spend less time addressing miscommunication or inconsistent information within other departments. 
+     ?	Why? Details about projects and functionality will be consistent because departments will use accurate information that is already approved/verified (by SMEs) on MCF. 
+
+Other Ideas that Help 
+•  Idea: Currently, your SME team leaders work directly with the marketing department prior to the scum projects. Often months go by before the first phase of the scrum project and by then new SMEs/marketing members could be on the project. Instead of recreating the knowledge transfer, SMEs/marketing members could track content in MCF. MCF has the ability to store images and reference materials. 
+•  Idea: MadCap Software provides support and maintenance. Our software engineers wouldn’t need to provide any technical support or repair the system.   
+
+MCF is a credible company trusted by several corporations. For example, Microsoft has been using MCF since 2009 to streamline their processes and they rave about the state-of-the-art capabilities and support. We need to follow these successful corporations and discover how MCF can help our company too.  
+
+Again, I am confident MCF will strengthen the communication and collaboration between our departments – we just need to brainstorm a workflow. Do you have time to meet the first week of December? 
+
+/ts

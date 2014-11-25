@@ -1,0 +1,27 @@
+MEMO
+To: 	   Charissa Abraham, VP for Software Development
+From:      Tracy Summers, Technical Writer
+Date:      11/24/14
+Subject:   Long Term Cost Benefits with MadCap Flare (MCF)
+
+In the last company-wide meeting you suggested we come up with innovative ideas to save money, and that is why we should consider using tools that help us in the long term. One tool that could definitely help us is MadCap Flare (MCF) because it reduces workloads (across multiple departments), and promotes collaboration throughout the organization. I’m using this memo to give you an overview of how it will benefit us. 
+
+What does it do?
+MCF allows multiple content contributors to collaborate on projects. These contributors enter small articles of information in MCF and then organize the content based on the type of deliverables they need (online and print). This process is called single-sourcing and it has been around for several years.
+
+How will it benefit us?
+Various departments can pull content from MCF without having to duplicate efforts. The content will already be written and varied so fewer employees need to write original content and verify accuracy of content.  
+•  Currently: Our marketing team works directly with software engineers/SMEs to talk about ideas/possible functionality. Then marketing creates deliverables to announce the new product/service internally/externally. The idea is shared with other departments who begin creating deliverables for their audiences too. All these groups contact SMEs to verify the accuracy of their content. Concern: This process creates a lot of duplicate work for multiple departments. 
+•  Future with MCF: Marketing could enter content in MCF, organize it by project, flag it by type (tasks, reference, etc.), and then other content creators can access the content to create their own deliverables. Benefits: SMEs will verify content once, content creators will have accurate information, and the organization will have deliverables with a consistent look. 
+
+Why is it worth the effort to change?
+•  We will be using state-of-the-art processes that allow us to produce professional deliverables. Currently we use Microsoft Word, which is limiting.
+•  Our employees are working harder, not smarter, to create deliverables.
+•  We can recruit candidates who want to work with advanced technology (vs. limited technology like Microsoft Word.) 
+
+Who uses it?
+MCF has been around for many years and here are a few large corporations that recommend it: Microsoft, Sprint, and SalesForce.
+
+I am interested in sharing more details with you. Would you like me to create a short presentation to show you the MCF interface and explain how it works? 
+
+/ts

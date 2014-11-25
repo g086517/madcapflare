@@ -1,0 +1,28 @@
+MEMO
+To:    Tom Johnson, Technical Communication Project Manager
+From:  Tracy Summers, Technical Writer
+Date:  11/23/14
+Subject:     Designing Pieces of Content and Working Smarter with MadCap Flare (MCF)
+
+After our discussion on single sourcing, I started researching companies who were already using these processes. Many of them rely on a credible program called MadCap Flare (MCF), and I’m certain this program will benefit our department too.  I’m sharing how those companies use MCF, how MCF will benefit us,  as well as providing suggestions on how we would transition to MCF. 
+ 
+Companies that use MCF and what they do
+Microsoft: create print and online documents
+AthenaHealth: produce monthly newsletters
+Sprint: Collaborate throughout their organization
+
+Benefits to our Department
+• Promotes Collaboration: Writers across the organization could create chunks of content and share it for any department. Imagine how much it would help our department to access logical details (about upcoming products) prior to the scrum meeting. Instead of waiting for details to come to us we could be proactive. 
+• Saves Time: Imagine how much time we would save in the scrum/launch process if all the writers had access to the same content. Instead of duplicating work within each department we could all use the same text – regardless of the deliverable (internal/external,  online/print).
+• Ensures Accuracy:  Imagine the convenience of having access to content already approved by SMEs instead of deciphering details during meetings and then attempting to explain those details in writing. 
+
+Suggestions for Transition
+• Departmental Training Phase I (1/6 – 1/9): Have 2-3 members attend the MadCap Flare training session (online, $1,299 per person). (Added benefit: we will meet the annual training requirement early.)
+• Departmental Training Phase II (1/12 – 1/13): Have 2 of the first attendees train the other members of the department.
+?	By implementing the training in phases, at least one person in the department will always be available for urgent matters.
+• Workflow Transition: Identify member roles and responsibilities prior to training. Begin using MCF immediately after the training phases.
+
+One last point: We should request approval for MCF before yearend because of the MCF training session and because next quarter is the ideal time for us to update our workflow processes. We can train our department and beginning transitioning to MCF before the marketing team sends us the spring 2015 line to document. 
+When do you have time to meet and discuss these benefits? I can bring my laptop and show you the MCF interface. (I downloaded a 30-day trail version.) 
+
+/ts
